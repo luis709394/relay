@@ -1,4 +1,4 @@
-// TODO: sync babel config with gulpfile. There are differences (eg, we don't
+// TODO: sync babel config with gulpfile. There are differences (eg, we don't 
 // want to use the DEV plugin).
 
 var babel = require('babel-core');
